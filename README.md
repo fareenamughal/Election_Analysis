@@ -20,7 +20,7 @@ The outcome of the elections was determined by analysing the election_results.cs
 
 A total of 369,711 votes were cast during the elections. 
 
-![Election_Results](Analysis/Election_Results.png)
+  ![Election_Results](Analysis/Election_Results.png)
 
 
 The total number of votes by county was Jefferson 38,885, Denver 306,055 and Arapahoe 24,801 votes whilst the percentage of votes by county was 10.5%, 82.3% and 6.7% respectively. The winning county or county with the largest voter turnout was Denver with 306,055 votes which made up 82.8% of the total votes that were casted.
