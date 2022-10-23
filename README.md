@@ -18,6 +18,10 @@ The purpose of the elections audit was to verify
 
 The outcome of the elections was determined by running a script or python code "PyPoll_Challenge" to analyse the elections results which were collected into a csv file "election_results.csv" and the results of running this code/script was saved in the elections_analysis.txt file as well as the individual png files depicting the specific results as below.
 
+![election_analysis]Analysis/Election_Results.txt)
+
+
+
 A total of 369,711 votes were cast during the elections. 
 
 ![Election_Results](Analysis/Election_Results.png)
