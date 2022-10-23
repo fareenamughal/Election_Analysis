@@ -13,7 +13,7 @@ The purpose of the elections audit was to verify
   
   4.The county with the largest voter turnout (winning county)
   
-  5. The candidate with the highest number of votes (winning candidate)
+  5.The candidate with the highest number of votes (winning candidate)
 
 
 ---
