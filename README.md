@@ -20,7 +20,7 @@ The purpose of the elections audit was to verify
 ## Elections audit results
 ---
 
-  - http://localhost:8888/view/Election_Analysis/Analysis/Election_Results.png.PNG
+  - ![PyBer Summary Dataframe](https://github.com/fareenamughal/PyBer_Analysis/blob/main/Analysis/PyBer_Summary_df.PNG)
 
 
 
