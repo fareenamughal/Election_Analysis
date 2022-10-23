@@ -16,7 +16,7 @@ The purpose of the elections audit was to verify
 ## Elections audit results
 ---
 
-  -![Election_Results](Analysis/Election_Results.png)   
+   -![Election_Results](Analysis/Election_Results.png)   
 
 
 
