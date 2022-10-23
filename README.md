@@ -16,11 +16,11 @@ The purpose of the elections audit was to verify
 ## Elections audit results
 ---
 
-The outcome of the elections was determined by analysing the election_results.csv file and saving the results in the elections_analysis.txt file as well as the individual png files depicting the specific results as below.
+The outcome of the elections was determined by running a script or python code "PyPoll_Challenge" to analyse the elections results which were collected into a csv file "election_results.csv" and the results of running this code/script was saved in the elections_analysis.txt file as well as the individual png files depicting the specific results as below.
 
 A total of 369,711 votes were cast during the elections. 
 
-  ![Election_Results](Analysis/Election_Results.png)
+![Election_Results](Analysis/Election_Results.png)
 
 
 The total number of votes by county was Jefferson 38,885, Denver 306,055 and Arapahoe 24,801 votes whilst the percentage of votes by county was 10.5%, 82.3% and 6.7% respectively. The winning county or county with the largest voter turnout was Denver with 306,055 votes which made up 82.8% of the total votes that were casted.
@@ -36,3 +36,6 @@ The total number of votes by candidate was Charles Casper 85,213, Diana DeGette 
 
 ---
 ## Election audit summary
+---
+
+The elections audit python code/script can be used for future or upcoming elections so long as the column headers remain the same as well as the format remains the same. Information, as outlined under overview of the elections audit, and stated in the elections audit results above can be quickly generated to determine the winning candidate and county by votes and percentages. 
