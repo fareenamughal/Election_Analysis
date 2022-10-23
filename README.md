@@ -43,3 +43,5 @@ The total number of votes by candidate was Charles Casper 85,213, Diana DeGette 
 ---
 
 The elections audit python code/script can be used for future or upcoming elections so long as the column headers remain the same as well as the format remains the same. Information, as outlined under overview of the elections audit, and stated in the elections audit results above can be quickly generated to determine the winning candidate and county by votes and percentages. 
+
+https://github.com/fareenamughal/Election_Analysis/blob/main/Analysis/election_analysis.txt
