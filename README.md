@@ -19,6 +19,11 @@ The purpose of the elections audit was to verify
    -![Election_Results](Analysis/Election_Results.png)
 
 
+-![Vote_count_and_percentage_by_county](Analysis/Vote_count_and_percentage_by_county.png)
+
+
+-![Vote_count_and_percentage_by_candidate](Analysis/Vote_count_and_percentage_by_candidate.png)
+
 
 ---
 ## Election audit summary
