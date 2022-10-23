@@ -16,7 +16,9 @@ The purpose of the elections audit was to verify
 ## Elections audit results
 ---
 
-   -![Election_Results](Analysis/Election_Results.png)
+A total of 369,711 votes were cast during the elections. This is determined by analysing the election_results.csv file
+
+![Election_Results](Analysis/Election_Results.png)
 
 
 -![Vote_count_and_percentage_by_county](Analysis/Vote_count_and_percentage_by_county.png)
