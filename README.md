@@ -5,7 +5,7 @@
 
 The purpose of the elections audit was to verify
   
-    1.The total number of votes
+   1.The total number of votes
   
     2.The vote count for each county and their respective percentages as a proportion ot the total votes
   
