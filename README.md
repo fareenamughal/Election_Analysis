@@ -2,20 +2,24 @@
 ---
 ## Overview of the elections audit
 ---
-The purpose of the elections audit was to vetting the vote count and the individual candidate and county as well as overall percentages and to highlight the highest votes and voter turnout per county  
 
-The voter turnout for each county
-The percentage of votes from each county out of the total count
-The county with the highest turnout
-
+The purpose of the elections audit was to verify
+  1.The total number of votes
+  2.The vote count for each county and their respective percentages as a proportion ot the total votes
+  3.The number of votes per candidate and their respective percentages as a proportion of total votes 
+  4.The county with the largest voter turnout (winning county)
+  5. The candidate with the highest number of votes (winning candidate)
 
 ---
 ## Elections audit results
 ---
 
-
+  - http://localhost:8888/view/Election_Analysis/Analysis/Election_Results.png.PNG
 
 
 
 ---
 ## Election audit summary
+
+
+
