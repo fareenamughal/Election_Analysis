@@ -22,7 +22,7 @@ https://github.com/fareenamughal/Election_Analysis/blob/main/Resources/election_
 https://github.com/fareenamughal/Election_Analysis/blob/main/PyPoll_Challenge_starter_code.py
 https://github.com/fareenamughal/Election_Analysis/blob/main/Analysis/election_analysis.txt
 
---
+---
 
 A total of 369,711 votes were cast during the elections. 
 
