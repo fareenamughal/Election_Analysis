@@ -25,14 +25,13 @@ A total of 369,711 votes were cast during the elections.
 
 The total number of votes by county was Jefferson 38,885, Denver 306,055 and Arapahoe 24,801 votes whilst the percentage of votes by county was 10.5%, 82.3% and 6.7% respectively. The winning county or county with the largest voter turnout was Denver with 306,055 votes which made up 82.8% of the total votes that were casted.
 
--![Vote_count_and_percentage_by_county](Analysis/Vote_count_and_percentage_by_county.png)
+![Vote_count_and_percentage_by_county](Analysis/Vote_count_and_percentage_by_county.png)
 
 
 The total number of votes by candidate was Charles Casper 85,213, Diana DeGette 272,892 and Raymon Anthony Doane 11.606 votes whilst the percentage of votes by candidate was 23%, 73.8% and 3.1% respectively. The winning candidate or candidate with the lhighest number of votes was Diana DeGette with 272,892 votes which made up 73.8% of the total votes that were casted.
 
 
-
--![Vote_count_and_percentage_by_candidate](Analysis/Vote_count_and_percentage_by_candidate.png)
+![Vote_count_and_percentage_by_candidate](Analysis/Vote_count_and_percentage_by_candidate.png)
 
 
 ---
